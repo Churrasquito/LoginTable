@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_empty">Debe introducir un valor en el campo</string>
+    <string name="password_digit">El campo debe contener al menos un dígito</string>
+    <string name="password_case">El campo debe contener al menos una mayúscula y una minúscula</string>
+    <string name="password_length">El campo debe tener una longitud mínima de 8 caracteres</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginTable</string>
+    <string name="name">Usuario</string>
+    <string name="txvPwd">Contraseña</string>
+    <string name="chkRemember">Recordar</string>
+    <string name="login">Entrar</string>
+    <string name="cancel">Cancelar</string>
+</resources>
